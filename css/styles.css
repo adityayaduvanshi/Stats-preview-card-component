@@ -1,0 +1,98 @@
+body{
+  font-size: 15px;
+  background-color: #090B1A;
+  text-align: left;
+  padding: 150px;
+
+}
+
+.top-container{
+  background-color: #1b1938;
+  background-color: hsl(244, 38%, 16%);
+  margin: 0 auto;
+  display: inline-block;
+  border-radius: 10px;
+
+
+}
+h1{
+  font-size:38px;
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  width: 40%;
+  margin-bottom: 0;
+  margin-top: 60px;
+  margin-left: 70px;
+}
+
+.accent{
+  color: #aa5cdb;
+}
+.main-paragraph{
+  font-family: 'Lexend Deca',sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-weight: 400;
+  width:40%;
+  margin-left: 70px;
+  margin-top: 30px;
+
+}
+.image{
+  max-width: 490px;
+  height: inherit;
+  float: right;
+  border-top-right-radius:10px;
+  border-bottom-right-radius: 10px;
+}
+.stats-heading1{
+  display: inline-block;
+  margin-top: 50px;
+  margin-right: 48px;
+  margin-left: 70px;
+  width: 10%;
+}
+.stats-heading2{
+  display: inline-block;
+  margin-top: 50px;
+  margin-right: 48px;
+  margin-bottom: 30px;
+  width:10%;
+}
+
+.stats-heading3{
+  display: inline-block;
+  margin-top: 50px;
+  margin-right:40px;
+  margin-bottom: 30px;
+  width: 10%;
+}
+
+
+.stats-numbers{
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-size: 25px;
+}
+.stat-text{
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 11px;
+font-family: 'Lexend Deca',sans-serif;
+width: 10%;
+}
+
+.attribution{
+  font-size: 15px;
+  font-family: 'Inter', sans-serif;
+  color: white;
+  color: hsla(0, 0%, 100%, 0.75);
+  text-align: center;
+  margin-top: 40px;
+}
+a{
+  color: #AA5CDB;
+}
+
+a:hover{
+  color: #1b1938;
+}
