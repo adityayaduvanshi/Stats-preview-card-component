@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](images/screenshot.PNG)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -40,10 +40,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/adityayaduvanshi/Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://github.com/adityayaduvanshi/Stats-preview-card-component)
+- Solution URL: https://github.com/adityayaduvanshi/Stats-preview-card-component
+- Live Site URL: https://github.com/adityayaduvanshi/Stats-preview-card-component
 
-## My process
+
 
 ### Built with
 
@@ -51,7 +51,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - CSS grid
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
@@ -68,6 +68,6 @@ I will be continuing my learning about the positioning and styling of elements a
 
 ## Author
 
-- Website - [Aditya Yaduvanshi ](https://www.linkedin.com/in/aditya-yaduvanshi-7a47a913b/)
+- Website - [Aditya Yaduvanshi ](https://adityayaduvanshi.github.io/mycsssite/)
 - Frontend Mentor - [@adityayaduvanshi](https://www.frontendmentor.io/profile/adityayaduvanshi)
 - Twitter - [@fixslyr](https://twitter.com/fixslyr)
