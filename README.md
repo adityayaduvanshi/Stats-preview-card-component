@@ -1,5 +1,5 @@
 # Stats-preview-card-component
-# Frontend Mentor - Clipboard landing page solution
+
 
 
 ## Table of contents
